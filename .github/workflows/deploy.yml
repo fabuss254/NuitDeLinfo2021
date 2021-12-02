@@ -30,5 +30,6 @@ jobs:
         PORT: ${{ secrets.PORT }}
         script: | 
           cd NuitInfo
+          pkill node
           npm i
           node server.js
