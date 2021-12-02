@@ -7,3 +7,4 @@ if (!is_file("./src/controllers/" . $target . ".php")){
 
 require("./src/controllers/" . $target . ".php");
 require("./src/views/template.php");
+?>
