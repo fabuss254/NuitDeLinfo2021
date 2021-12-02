@@ -1,3 +1,3 @@
 <?php
 
-echo '<h1>La yo</h1>';
+echo '<h1>test</h1>';
