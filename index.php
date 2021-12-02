@@ -1,3 +1,6 @@
 <?php
 
-echo '<h1>La page a changer</h1>';
+$target = $_GET["target"] ?? "home";
+$isProd = false;
+
+require("./src/controllers/primary.php");
