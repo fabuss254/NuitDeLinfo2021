@@ -1,3 +1,3 @@
 <?php
 
-echo '<h1>La page a hjk</h1>';
+echo '<h1>La ptesthjk</h1>';
