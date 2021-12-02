@@ -1,3 +1,3 @@
 <?php
 
-echo '<h1>Hello World ! In PHP</h1>';
+echo '<h1>La page a changer</h1>';
