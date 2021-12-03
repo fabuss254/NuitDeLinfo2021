@@ -14,6 +14,7 @@
         <link href="./assets/css/default.css" rel="stylesheet" type="text/css" />
         <link href="./assets/css/home.css" rel="stylesheet" type="text/css" />
 
+        <link rel="icon" type="image/png" href="./assets/img/logo.png" />
         <script src="./assets/js/default.js"></script>
         <meta charset='utf-8'>
         

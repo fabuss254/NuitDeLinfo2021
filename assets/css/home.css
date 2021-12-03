@@ -6,8 +6,27 @@
     background-position: center;
     background-size: cover;
     filter: blur(0px);
-    z-index: 0;
+    z-index: 10;
 
-    padding: 0 10px 0 10px;
+    /*padding: 0 10px 0 10px;*/
     position: relative;
+}
+
+.cool-badge {
+    display: block;
+    width: 5vw;
+    height: 10vh;
+    position: relative;
+
+    background-repeat: no-repeat;
+    background-position: center 50%;
+    background-size: contain;
+    transform: scale(15, 15) translate(20%, 0);
+    opacity: 0.5;
+    z-index: 1;
+
+    overflow: hidden;
+}
+.cool-badge p {
+    opacity: 0;
 }
