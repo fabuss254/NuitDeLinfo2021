@@ -8,5 +8,6 @@
     filter: blur(0px);
     z-index: 0;
 
+    padding: 0 10px 0 10px;
     position: relative;
 }
